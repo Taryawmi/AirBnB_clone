@@ -1,3 +1,3 @@
 # AirBnB_clone
 Two team project
-Oluwataya and Adoga
+Oluwatayo and Adoga
